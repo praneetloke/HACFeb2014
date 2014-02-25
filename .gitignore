@@ -27,3 +27,11 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+#Build folders
+build/
+
+#Gradle
+gradle/
+gradlew
+gradlew.bat
