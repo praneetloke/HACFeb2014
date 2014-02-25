@@ -4,7 +4,7 @@ HACFeb2014
 A repository for challenge participants of Hangout and Code to create a pull request against for their submissions.
 
 
-Challenges
+Challenges (from 9AM on 2/25/14 to 9AM on 3/3/14)
 ----------
 *(in no particular order, although it would be easy for you to follow the order)*
 - Fork this project to your own github account.
@@ -24,6 +24,8 @@ To win
 ------
 - **You must be a Centric Consulting employee, must have attended the 2/20 session either physicall or virtually.**
 - Be the first to create the pull request with the above tasks completed.
-- If you are the first to create the pull request with the above tasks completed but someone creates a pull request after you by completing more (or all of the) bonus criteria items (correctly) than you have, then they will be chosen as the winner.
-- If you completed all of the bonus criteria and are the first to create the pull request as well, but someone else creates a pull request after and also completes all of the bonus criteria, then the winner will be based on correctness.
+- If you are the first to create the pull request with the above tasks completed, but, someone creates a pull request after you by completing more (or all of the) bonus criteria items (correctly) than you have, then they have a higher chance of being chosen as the winner.
+	- I said *chance* of being the winner because you could complete everything but may have done something incorrectly so I'll have to evaluate and pick the winner.
+- If you completed all of the bonus criteria and are the first to create the pull request as well, but someone else creates a pull request after you and also completes all of the bonus criteria, then the winner will be based on correctness.
 	- In otherwords, **completing all of the bonus items and creating the pull request first does not automatically make you the winner**.
+- Evaluations will be done on 3/3/14 and the winner will be announced as soon as possible after that.
