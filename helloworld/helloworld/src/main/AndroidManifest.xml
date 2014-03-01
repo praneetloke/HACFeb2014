@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.helloworld" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <!-- Title can also be set using setTitle() method in the onCreate method of the java class
+             said activity.  Reference:
+             http://developer.android.com/reference/android/app/Activity.html#setTitle(int) -->
+        <activity
+            android:name="com.helloworld.MainActivity"
+            android:label="@string/main_activity_title" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
